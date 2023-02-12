@@ -1,0 +1,8 @@
+.movie {
+    width: 350px;
+    height: 500px;
+    background-color: rgb(216, 230, 242);
+    padding: 10px;
+    margin: 50px 65px;
+    display: inline-table;
+}

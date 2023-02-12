@@ -1,0 +1,31 @@
+.box {
+    width: 400px;
+    height: 500px;
+    background-color:rgb(216, 230, 242);;
+    margin: 50px;
+}
+.reserve{
+    width: 400px;
+    height: 50px;
+    background-color: beige;
+    
+}
+.reserve p{
+    font-size:25px;
+    padding: 5px;
+    text-align:  center;
+}
+h3{
+    padding: 20px;
+}
+.category {
+    padding: 10px;
+    /* border-radius: 5%; */
+    width: 350px;
+}
+.submit{
+    padding: 10px;
+    background-color: rgb(201, 201, 226);
+    border: 0;
+    width: 70px;
+}

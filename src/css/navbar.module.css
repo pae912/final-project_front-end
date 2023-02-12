@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #8fc7da;
+    text-align: center;
+    height: 80px;
+}
+
+.navbar ul {
+    margin: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.navbar ul li {
+    font-size: 24px;
+    padding: 10px 20px;
+}
+
+.navbar ul li:hover {
+    background-color: #8adaf5;
+    opacity: 0.8;
+}
+
+.navlink {
+    text-decoration: none;
+    color: black;
+}
